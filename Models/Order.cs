@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Neag_Cristina_Lab2_Master.Models
+﻿namespace Neag_Cristina_Lab2_Master.Models
 {
     public class Order
     {

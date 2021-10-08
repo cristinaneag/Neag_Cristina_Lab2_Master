@@ -1,5 +1,3 @@
-using System;
-
 namespace Neag_Cristina_Lab2_Master.Models
 {
     public class ErrorViewModel
